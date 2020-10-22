@@ -1,6 +1,6 @@
 [submodule "pack/my-plugins/start/nerdtree"]
 	path = pack/my-plugins/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
-[submodule "python-mode"]
-	path = python-mode
+[submodule "pack/my-plugins/start/python-mode"]
+	path = pack/my-plugins/start/python-mode
 	url = https://github.com/python-mode/python-mode.git
